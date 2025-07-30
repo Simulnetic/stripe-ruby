@@ -1,0 +1,13 @@
+name: stripe-ruby
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/7d01baf9-90d7-4342-be2b-7409289297f2
+description: Ruby library for the Stripe API.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
